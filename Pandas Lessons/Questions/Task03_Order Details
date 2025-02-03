@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("orders.csv")
+df = pd.read_csv("Data/orders.csv")
 
 #this data file contains details of all the orders that have
 #been made to an online retailer
